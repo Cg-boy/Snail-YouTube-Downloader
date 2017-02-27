@@ -1,5 +1,5 @@
 # Snail-YouTube-Downloader
-A simple YouTube downloader made using Pytube. The current features of Snail-Youtube-Downloader are:
+A simple python YouTube downloader made using Pytube. The current features of Snail-Youtube-Downloader are:
 
 * Download YouTube videos in different resolutions.
 
