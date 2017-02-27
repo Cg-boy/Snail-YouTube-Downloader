@@ -19,7 +19,7 @@ class Downloader(Frame):
 			#Download video at specified location in specified resolution and format
 			self.ST_text.set("Downloading...")
 			self.vid = self.yt.get(self.formatselect, self.resolutionselect)
-			self.vid.download("/home/harlan/Desktop")
+			self.vid.download("/home")
 			self.ST_text.set("Done.")
 		except:
 			self.ST_text.set("Error!")
